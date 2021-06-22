@@ -1,8 +1,12 @@
-# Getting Started with Create React App
+# Project Title
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1. Infinite-Scroll
 
-## Available Scripts
+## Description
+
+  Built the infinite scroll using a static dataset, Used Json Server to host the data.
+
+## Installing
 
 In the project directory, you can run:
 
